@@ -1,5 +1,6 @@
 # LC_repo
 repo made to share work with the LC
+
 this repo contains the number guessing game in python. 
 
 The rules of this game:
